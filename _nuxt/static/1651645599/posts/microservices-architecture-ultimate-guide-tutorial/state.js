@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1651645599",layout:"default",error:b,state:{isSidebarOpen:a,isLoading:a},serverRendered:a,routePath:"\u002Fposts\u002Fmicroservices-architecture-ultimate-guide-tutorial",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:b},content:{dbHash:"3ac15b0e"}}}}(true,null));
