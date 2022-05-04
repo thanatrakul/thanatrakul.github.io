@@ -11,7 +11,8 @@
     "lint:prettier": "prettier --check .",
     "lint": "npm run lint:js && npm run lint:prettier",
     "lintfix": "prettier --write --list-different . && npm run lint:js -- --fix",
-    "test": "jest"
+    "test": "jest",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
     "@nuxt/content": "^1.15.1",
@@ -39,6 +40,7 @@
     "jest": "^27.4.4",
     "postcss": "^8.4.4",
     "prettier": "^2.5.1",
+    "push-dir": "^0.4.1",
     "vue-jest": "^3.0.4"
   }
 }
