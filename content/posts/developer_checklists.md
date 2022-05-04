@@ -1,20 +1,6 @@
 ---
 title: Checklists Every Developer Should Know
-description: 'The product lifecycle often holds us accountable for so many things. Even if you think you are aware of everything, it is always a great practice to double-check, just to be sure.'
+description: The product lifecycle often holds us accountable for so many things. Even if you think you are aware of everything, it is always a great practice to double-check, just to be sure.
 ---
 
-# Markdown
-
-Empower your NuxtJS application with `@nuxtjs/content` module: write in a `content/` directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a **Git-based Headless CMS**.
-
-## Writing content
-
-Learn how to write your `content/`, supporting Markdown, YAML, CSV and JSON: https://content.nuxtjs.org/writing.
-
-## Fetching content
-
-Learn how to fetch your content with `$content`: https://content.nuxtjs.org/fetching.
-
-## Displaying content
-
-Learn how to display your Markdown content with the `<nuxt-content>` component directly in your template: https://content.nuxtjs.org/displaying.
+https://madza.hashnode.dev/6-useful-checklists-every-developer-should-know
